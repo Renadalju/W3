@@ -1,0 +1,20 @@
+[project]
+name = "w3"
+version = "0.1.0"
+description = "Week 3 notebooks: preprocessing, models, cross-validation, and hyperparameter tuning"
+requires-python = ">=3.11"
+
+dependencies = [
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "matplotlib",
+  "seaborn",
+  "plotly",
+]
+
+[project.optional-dependencies]
+notebooks = [
+  "jupyterlab",
+  "ipykernel",
+]
