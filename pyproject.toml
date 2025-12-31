@@ -12,9 +12,3 @@ dependencies = [
   "seaborn",
   "plotly",
 ]
-
-[project.optional-dependencies]
-notebooks = [
-  "jupyterlab",
-  "ipykernel",
-]
