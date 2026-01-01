@@ -1,6 +1,5 @@
 # Scikit-learn MOOC (Machine Learning) — Exercises Solutions
 
----
 
 This repository contains my solutions for the exercises of the Scikit-learn MOOC by Inria.
 Focused on:
