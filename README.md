@@ -1,4 +1,4 @@
-M# Scikit-learn MOOC (Machine Learning) — Exercises Solutions
+# Scikit-learn MOOC (Machine Learning) — Exercises Solutions
 
 ---
 
